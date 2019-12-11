@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: leyou-elastic #集群名称，下面是端口号
+      cluster-nodes: 192.168.2.128:9301,192.168.2.128:9302,192.168.2.128:9303
